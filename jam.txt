@@ -1,0 +1,44 @@
+
+<div class="events">
+
+<div class="events_name_sm">
+<h1>JAM</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('jam/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('jam/warning.txt')" ><h3>Warnings</h3></li>
+<li onclick="eventsajax('jam/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('jam/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('jam/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Oi  people !! Just a minute..<br>
+Wanna get on stage??<br><br>
+all you have to do is you should have been chucked out of class at least 3 times coz you talk too much..<br>
+This event is all about proving that you are not worth listening for 1 minute<br>
+We will give you a situation or a topic to talk on and you have 1 minute to talk.<br> 
+you think you are mad?come and prove yourself!!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

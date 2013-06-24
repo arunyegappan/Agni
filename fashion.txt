@@ -1,0 +1,41 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Fashion Show</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('fashion/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('fashion/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('fashion/theme.txt')"><h3>Theme</h3></li>
+<li onclick="eventsajax('fashion/prize.txt')"><h3>Prize</h3></li>
+<li onclick="eventsajax('fashion/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Agni 2012 welcomes one and all to the "FASHION SHOW".
+It is not only about dressing up, looking pretty and walking the ramp .The Language of Fashion speaks more.
+It is about inspiration, creativity, CONFIDENCE and Originality. If you got the passion of fashion, if you've got the talent or innovative idea or just like to celebrate style, come join us at Agni 2012 fashion show!!
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

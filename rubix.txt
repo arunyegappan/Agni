@@ -1,0 +1,40 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Rubix Cube</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('rubix/home.txt')" ><h3>Home</h3></li>
+
+<li onclick="eventsajax('rubix/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('rubix/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner"> Are u very much interested in wasting time ? <br>Do u know what is rubix cube ?<br> Do you know how to rotate it ? Do u know to perceive color ?<br> 
+Then here is the stage for you .<br> Just Come to the Spot and solve rubix cube and go with loads of prizes and gifts.
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

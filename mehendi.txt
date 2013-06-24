@@ -1,0 +1,37 @@
+n
+<div class="events">
+
+<div class="events_name_sm">
+<h1>Mehendi</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('mehendi/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('mehendi/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('mehendi/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Mehendi is the proof for the Knowledge of INDIAN arts. To explore the knowledge compete here
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

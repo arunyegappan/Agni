@@ -1,0 +1,39 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Compere Catch</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('compere/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('compere/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('compere/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('compere/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">You! Yes, you! How cool it'll be if you can compere for this year's grand AGNI???  Wanna do it??? Then come and show us what you got. We'll put you on stage if you have the skills to wow the crowd.
+	Start Registering Now!
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

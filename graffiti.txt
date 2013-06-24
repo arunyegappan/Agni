@@ -1,0 +1,38 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Graffiti</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('graffiti/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('graffiti/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('graffiti/theme.txt')"><h3>Theme</h3></li>
+<li onclick="eventsajax('graffiti/prize.txt')"><h3>Prize</h3></li>
+<li onclick="eventsajax('graffiti/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Not an artist but love to doodle? This is the chance for you to express your creativity and have fun! Come join us at Agni 2012 graffiti competition and scribble to your heart's content.
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

@@ -1,0 +1,37 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Newspaper Dressing</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('dressing/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('dressing/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('dressing/faq.txt')"><h3>faq</h3></li>
+<li onclick="eventsajax('dressing/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">If having fun is your forte and enjoyment is your destiny, this is your correct event. If u love tearing papers and can make it worth looking, you need to pop in with a team, show your talent, make your dream design come true with newspapers and win attractive prizes. 
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

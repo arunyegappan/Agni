@@ -1,0 +1,37 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Solo Instumental</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('soloinst/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('soloinst/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('soloinst/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">It is just you on the stage trying to bring out the musical talent within you. Be it acoustic, electric, strings, percussion, wind or brass, this is your chance to take the spotlight, fill up the stage and rock the crowd!!!!!!!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

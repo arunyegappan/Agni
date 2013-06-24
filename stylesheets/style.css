@@ -1,0 +1,118 @@
+body
+{
+background-image:url("../images/background.png");
+
+}
+.whole
+{
+
+}
+
+.maintop
+{
+
+background-image:url("../images/bg-header.jpg");
+height:250px;
+width:1300;
+
+}
+.logofont
+{
+position:relative;
+padding-left:370px;
+top:20px;
+}
+
+#welcome
+{
+color:white;
+font-size:25px;
+position:relative;
+top:30px;
+left:150px;
+}
+.fb
+{
+}
+.logo
+{
+position:relative;
+
+float:left;
+}
+
+.font
+{
+position:relative;
+
+
+float:left;
+}
+.countdown
+{
+padding-left:900px;
+padding-top:200px;
+}
+.ajaximg
+{
+position:relative;
+top:300px;
+left:300px;
+
+}
+
+.loadimg
+{
+background-image:url("../images/background.png");
+width:900px;
+height:665px;
+
+}
+#menu
+{
+position:relative;
+top:-10px;
+
+}
+
+.slides
+{
+top:-20px;
+position:relative;
+left:0px;
+
+
+
+}
+
+#fullcontent
+{
+border-radius:30px;
+width:900px;
+height:665px;
+position:relative;
+top:5px;
+
+ background-image:url("../images/bg.jpg");
+ float:left;
+ } 
+ 
+ .innercontent
+ {
+ color:#F1D28F;
+ position:relative;
+ top:-100px;
+ padding-left:20px;
+ padding-right:20px;
+ }
+ 
+
+ .footer
+ {
+ background-image:url("../images/bg-footer.png");
+ height:100px;
+ position:relative;
+ top:-10px;
+ clear:both;
+ width:1300;
+ }

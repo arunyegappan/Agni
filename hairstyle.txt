@@ -1,0 +1,41 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Hair Style</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('hairstyle/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('hairstyle/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('hairstyle/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('hairstyle/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Dont miss out The Agni 2012 hairstyling competition !<br>
+Curl.Braid.Blowdry.Pincurl.<br>
+do whatever you want .the only time to bring out your artistic talent and highlight your skills in hair styling.<br>
+Show us what u got in u !
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

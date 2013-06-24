@@ -1,0 +1,28 @@
+<div id="moving_tab">
+	<div class="tabs">
+		<div class="lava"></div>
+		<span class="item"><a href="#">Popular Posts</a></span>
+		<span class="item"><a href="#">Recent Posts</a></span>
+
+	</div>
+					
+	<div class="content">						
+		<div class="panel">						
+			<ul>
+				<li><a href='#'>Panel 01 Item 01</a></li>
+				<li><a href='#'>Panel 01 Item 02</a></li>
+				<li><a href='#'>Panel 01 Item 03</a></li>
+				<li><a href='#'>Panel 01 Item 04</a></li>
+				<li><a href='#'>Panel 01 Item 05</a></li>
+			</ul>
+			<ul>
+				<li><a href='#'>Panel 02 Item 01</a></li>
+				<li><a href='#'>Panel 02 Item 02</a></li>
+				<li><a href='#'>Panel 02 Item 03</a></li>
+				<li><a href='#'>Panel 02 Item 04</a></li>
+				<li><a href='#'>Panel 02 Item 05</a></li>			
+			</ul>						
+		</div>
+
+	</div>	
+</div>

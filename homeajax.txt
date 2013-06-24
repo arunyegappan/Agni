@@ -1,0 +1,21 @@
+<div id="fullcontent">
+<div id="welcome">
+<h1>WELCOME TO AGNI</h1>
+</div>
+
+
+
+
+<div class="slides">
+<?php
+include("slideshow.txt");
+?>
+</div>
+
+<div class="innercontent">
+<?php
+include("maincontent.txt");
+?>
+</div>
+
+</div>

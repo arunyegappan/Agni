@@ -1,0 +1,40 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>PHOTOSHOP WORKSHOP</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('photoshopws/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('photoshopws/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('photoshopws/contact.txt')" ><h3>contacts</h3></li>
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+<p>Photoshop is the popular photo and image manipulation tool that is invaluable to designers and enthusiasts. Photoshop can be used to draw art from scratch, to design content for publicity brochures and most importantly it provides and endless source of fun by manipulating images and photos to user satisfaction.</p>
+You can <ul>
+<li> learn the fundamental tools, techniques and workflows for Photoshop. </li>
+<li> learn practically how to make Graphical & 3D Images using Photoshop.</li>
+</ul>
+and a lot more!!!
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

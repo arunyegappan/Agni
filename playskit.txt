@@ -1,0 +1,37 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Play Skit</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('playskit/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('playskit/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('playskit/faq.txt')"><h3>faq</h3></li>
+<li onclick="eventsajax('playskit/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">The team members should enact the skit based on the topic given to them on the spot. The topic given will be based on the sole discretion of the judge. The skit must be filled with fun and must have life and the winners will be based on judging criteria.
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

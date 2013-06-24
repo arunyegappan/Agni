@@ -1,0 +1,44 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>NANBAEN DA</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('nanbaen/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('nanbaen/rounds.txt')" ><h3>Rounds</h3></li>
+<li onclick="eventsajax('nanbaen/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('nanbaen/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('nanbaen/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Happiest person in the world is not those who have apple of friends but a seed of true friend.<br>
+Have you felt like “oorla pathu friend vachirukuven lam sandhoshama irukan orae oru friend ah vachi na padra avasta irukae aiyayaooo”then it is a stage for you<br>
+Nanbaen da is all about you and your friend	<br>
+It will be a stage to bring out your friendship to the college.<br><br>
+
+The winners will be AWARDED the title  BEST FRIENDS IN CAMPUS.
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

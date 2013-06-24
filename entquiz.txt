@@ -1,0 +1,36 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>ENTERTAINMENT QUIZ</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('entquiz/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('entquiz/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('entquiz/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Bored of studying? Lets jump into the world of entertainment. This event is specially for the movie lovers. If you are strong enough to tell the details of the movies then this event is for you. This is a normal quiz event where the questions are from the field of cinema. Questions might be from all the wood's that we know. So just come out with correct answers and take away exciting prizes.
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

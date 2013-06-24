@@ -1,0 +1,41 @@
+
+<div class="events">
+
+<div class="events_name_sm">
+<h1>SUDOKU </h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('sudoku/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('sudoku/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('sudoku/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Play with the 9 natural numbers.<br>
+Challenge your concentration and analytical skills, try all the permutations and combinations.<br>
+Rack your brains! To complete a 9×9 matrix and experience how numbers can give you an adrenaline rush (apart from the time of mathematics exams).<br>
+This is what 'Sudoku' is all about.<br>
+If you have an inclination..!! come right here..!!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

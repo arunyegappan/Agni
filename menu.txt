@@ -1,0 +1,50 @@
+<div id="header">
+
+<ul id="nav">
+<li class="top" ><a rel='tab' onclick="ajax('index.php')" href="index.php" class="top_link" id="left"><span>HOME</span></a></li>
+<li class="top"><a rel='tab' onclick="ajax('jam.php')" href="jam.php" class="top_link"><span class="down">EVENTS</span></a>
+<ul class="sub">
+
+<li><a href="#nogo3" class="fly">Informals</a>
+					<ul>
+						<li><a href="#nogo4">Mr.&Mrs. Agni</a></li>
+						<li><a href="#nogo5">Pick up drop escape</a></li>
+						<li><a href="#nogo6">Stage Events</a></li>
+					</ul>
+</li>
+</ul>
+</li>
+
+<li class="top"><a href="#" class="top_link"><span class="down">FAIR  ARTS</span></a>
+<ul class="sub">
+
+					
+						<li><a href="#nogo4">Mr.&Mrs. Agni</a></li>
+						<li><a href="#nogo5">Pick up drop escape</a></li>
+						<li><a href="#nogo6">Stage Events</a></li>
+					
+
+</ul>
+</li>
+
+<li class="top"><a href="#" class="top_link"><span class="down">ONLINE EVENTS</span></a>
+<ul class="sub">
+
+						<li><a href="#nogo4">Cos</a></li>
+						<li><a href="#nogo3" class="fly">Photography</a>
+							<ul>
+							<li><a href="#nogo8">camera</a></li>
+							<li><a href="#nogo9">phone</a></li>
+						
+							</ul>
+						</li>
+						<li><a href="#nogo6">Design</a></li>
+</ul>
+</li>
+
+<li class="top"><a href="#" class="top_link"><span>GALLERY</span></a></li>
+<li class="top"><a href="#" class="top_link" id="right"><span>ABOUT US</span></a></li>
+
+</ul>
+
+</div>

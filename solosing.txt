@@ -1,0 +1,38 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Solo Singing</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('solosing/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('solosing/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('solosing/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Have you always dreamt of singing like Shreya Goshal or Karthik, Rihanna or Bryan Adams??
+We're providing you with a great opportunity to bring out your voice and showcase your singing talent!!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

@@ -1,0 +1,99 @@
+
+ @font-face
+{
+font-family: Bad Films;
+src: url('BADFILMS.ttf')
+    
+}
+.events
+{
+clear:both;
+position:relative;
+left:00px;
+
+
+}
+.events_name h1
+{
+font-family:Bad Films;
+color:white;
+position:relative;
+left:320px;
+top:30px;
+text-shadow: 5px 5px 5px #FF0000;
+}
+
+.events_name_sm
+{
+font-family:Bad Films;
+color:white;
+position:relative;
+left:470px;
+top:30px;
+text-shadow: 5px 5px 5px #FF0000;
+}
+
+.events_menu
+{
+float:left;
+position:relative;
+top:220px;
+left:100px;
+}
+
+.events_menu ul
+{
+list-style: none;
+}
+.events_menu li
+{
+font-family:COMIC SANS MS;
+padding-bottom:10px;
+cursor: hand;
+color:blue;
+text-decoration:none;
+text-shadow: 2px 2px 2px #FF0000;
+}
+
+.events_menu li:hover
+{
+color:white;
+}
+
+.events_menu a
+{
+
+}
+
+#events_content
+{
+color:white;
+
+
+}
+.long
+{
+font-size:15px;
+position:relative;
+top:-40px;
+}
+
+.pic
+{position:relative;
+top:50px;
+left:150px;
+}
+#eventsinner
+{
+font-family:Bad Films;
+font-size:20px;
+width:650px;
+position:relative;
+top:100px;
+left:240px;
+}
+#eventsinner a
+{
+text-decoration:none;
+color:blue;
+}

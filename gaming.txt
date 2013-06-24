@@ -1,0 +1,47 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>GAMINDROME</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('gaming/fifa.txt')" ><h3>Fifa</h3></li>
+<li onclick="eventsajax('gaming/dota.txt')" ><h3>DotA</h3></li>
+<li onclick="eventsajax('gaming/cstrike.txt')" ><h3>CStrike</h3></li>
+<li onclick="eventsajax('gaming/nfs.txt')" ><h3>NFS</h3></li>
+<li onclick="eventsajax('gaming/temp.txt')" ><h3>Temple Run</h3></li>
+<li onclick="eventsajax('gaming/ang.txt')" ><h3>Angry Birds</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+<ul>
+<li>The participants will enjoy the vintage FIFA 11.Enjoy your favourite team fight its way to glory.</li>
+<li>The competition will be on a knockout basis till the very end.</li>
+<li>Each contestant will be matched against each other based on his/her availabilities.</li>
+<li>If there is no result,THE GOLDEN GOAL will be conducted.</li>
+<li>Be the scores are equal even after THE GOLDEN GOAL time,the winner will be decided on penality shoot.</li>
+<li>The contestants playing in joysticks should bring their own gaming consoles.</li>
+</ul>
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

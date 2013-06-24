@@ -1,0 +1,40 @@
+n
+<div class="events">
+
+<div class="events_name_sm">
+<h1>Caricature</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('caricature/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('caricature/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('caricature/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Hey folks!! Come out of the serious moods. It is time for some fun and bashing. AGNI 2012 launches its grand event CARICATURE.
+Well, I know you start imagining it is for artists or portrait drawers. Sorry guys!! You are wrong. You just need to make "THE GREAT DAMAGES" to the given photos of the celebrities. Higher the damages, higher the credits.
+So why still waiting?? Come join us & ROCK ON!!!!
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

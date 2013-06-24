@@ -1,0 +1,44 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>DARE TO DARE</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('daretodare/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('daretodare/detail.txt')" ><h3>Description</h3></li>
+<li onclick="eventsajax('daretodare/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('daretodare/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('daretodare/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Are you in for a game?? Then jump, run, hunt, aim n beat them all..
+<br>
+Cross the 3 hurdles n others are up for a challenge..
+<br>
+All it takes is a pocket full of energy, fist full of guts, a cup of confidence, a pinch of wisdom n a whole lot of dare..
+<br>So, do you DARE TO DARE??
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

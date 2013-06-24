@@ -1,0 +1,38 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>GENERAL QUIZ </h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('genquiz/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('genquiz/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('genquiz/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Is Wikipedia your religion and Jimmy Wales your God? Is Google your second home? Do you think you have what it takes to compete with the best minds of the college? Then this is the place for you to be this AGNI. 
+Welcome to the greatest quizzing challenge of CEG to be crowned the ultimate quizzing champions of the college.
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

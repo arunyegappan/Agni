@@ -1,0 +1,37 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Soap Carving</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('soap/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('soap/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('soap/faq.txt')"><h3>faq</h3></li>
+<li onclick="eventsajax('soap/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Soap carving is a fun and easy way to create sculptures from a bar of soap. Soap carving is a delightful craft that is both creative and affordable. Whether you are a serious sculptor, all you need is a bar of soap, paring knife, manicure sticks and your imagination. You may be surprised to discover how much you'll enjoy making these unique works of art.
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

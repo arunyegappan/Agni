@@ -1,0 +1,37 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Western Music</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('western/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('western/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('western/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Metal or ballad, jazz or blues!! It doesn't matter what genre you choose as long as you rock the stage with your talent in western music!! Show the crowd what your band can do and prove that it doesn't have to be just Indian music that would make people stand up and applaud!!!!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

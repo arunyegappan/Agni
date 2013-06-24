@@ -1,0 +1,41 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Baana Kaathadi</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('baana/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('baana/description.txt')" ><h3>Description</h3></li>
+<li onclick="eventsajax('baana/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('baana/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('baana/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Whether the CEGians are known for studies only? <br>We don't think so! Do you? <br>
+Have you ever flew your own kite in your home terrace? <br> Or have you chased any kite during your childhood days?<br>
+Here comes a game to test your creative and adventuring skills!!!
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

@@ -1,0 +1,42 @@
+
+<div class="events">
+
+<div class="events_name_sm">
+<h1>PHOTOSTORY </h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('photostory/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('photostory/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('photostory/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('photostory/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Photographers, short film makers, and all those who want to show off with their 5mega pixel cameras. We have an event for you !! <br>
+This is photo story... <br>
+All you have to do is make a story on the topic we give you and start clicking photos that narrate your story. Give us your photos within the specified time limit. And wait for it... If we  understand and like your story then you will be shortlisted. Simple as that!<br>
+Nothing complicated. Just have fun while telling us your story!<br>
+Adios!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

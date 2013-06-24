@@ -1,0 +1,37 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Sports Quiz</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('sportsquiz/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('sportsquiz/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('sportsquiz/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('sportsquiz/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Are you someone who spends more time cheering than studying?<br> Are you one of those whom people call oddities for supporting luge than cricket?<br> Are you one of those Olympic freaks.<br> Come this October, AGNI sports quiz is the best place for you.
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

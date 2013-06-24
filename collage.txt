@@ -1,0 +1,38 @@
+n
+<div class="events">
+
+<div class="events_name_sm">
+<h1>Collage</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('collage/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('collage/what.txt')" ><h3>Whats this</h3></li>
+<li onclick="eventsajax('collage/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('collage/materials.txt')"><h3>Materials</h3></li>
+<li onclick="eventsajax('collage/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner" class="long">Hey folks!! It is time to bring out your creativity. AGNI-2012 launches its event COLLAGE MAKING .You must have made it with fun or must have seen it in drawing room of your friends and it might have been attracted you.It needs some zeal in your inner urge to make it. Not so tough to make it. With this you can attract your chum and will add flavor in your extra activities<br>
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

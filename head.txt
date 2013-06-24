@@ -1,0 +1,141 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css" />
+<link rel="stylesheet" type="text/css" href="stylesheets/sidebar.css" />
+<link rel="stylesheet" type="text/css" href="pro_drop_1/pro_drop_1.css" />
+<link rel="stylesheet" href="stylesheets/style_s.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="stylesheets/events.css" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="js/jquery.tools.min.js"></script>
+<script src="pro_drop_1/stuHover.js" type="text/javascript"></script>
+ <script src="js/jquery-1.3.1.min.js" type="text/javascript"></script>
+ <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+<script src="countdown.js"></script>
+	<script type="text/javascript" src="js/jquery-1.2.6.js"></script>
+	<script type="text/javascript" src="js/startstop-slider.js"></script>
+
+ 
+<!-- Load the CloudCarousel JavaScript file -->
+<script>
+	
+	$(document).ready(function () {
+
+		//set the default location (fix ie 6 issue)
+		$('.lava').css({left:$('span.item:first').position()['left']});
+		
+		$('.item').mouseover(function () {
+			//scroll the lava to current item position
+			$('.lava').stop().animate({left:$(this).position()['left']}, {duration:200});
+			
+			//scroll the panel to the correct content
+			$('.panel').stop().animate({left:$(this).position()['left'] * (-2)}, {duration:200});
+		});
+		
+	});
+	
+	</script>
+	
+
+	
+
+	
+	
+	<script>
+function ajax(str)
+{
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	
+    document.getElementById("fullcontent").innerHTML=xmlhttp.responseText;
+    }
+	else
+	{
+	document.getElementById("fullcontent").innerHTML="<div class='loadimg'><img src='images/load.gif' class='ajaximg'/></div>";
+	}
+  }
+
+
+
+xmlhttp.open("GET",str+"/?click='yes'",true);
+xmlhttp.send();
+
+
+}
+
+function eventsajax(str)
+{
+
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	
+    document.getElementById("eventsinner").innerHTML=xmlhttp.responseText;
+    }
+
+  }
+
+
+
+xmlhttp.open("GET",str,true);
+xmlhttp.send();
+
+
+
+
+}
+
+
+</script>
+
+<script language="javascript" src="js/jquery-1.4.4.min.js"></script>
+<script>
+$(function(){
+	$("a[rel='tab']").click(function(e){
+		//e.preventDefault(); 
+		/*	
+		if uncomment the above line, html5 nonsupported browers won't change the url but will display the ajax content;
+		if commented, html5 nonsupported browers will reload the page to the specified link. 
+		*/
+		
+		//get the link location that was clicked
+		pageurl = $(this).attr('href');
+		
+		//to get the ajax content and display in div with id 'content'
+		$.ajax({url:pageurl+'?rel=tab',success: function(data){
+			$('#content').html(data);
+		}});
+		
+		//to change the browser URL to 'pageurl'
+		if(pageurl!=window.location){
+			window.history.pushState({path:pageurl},'',pageurl);	
+		}
+		return false;  
+	});
+});
+
+/* the below code is to override back button to get the ajax content without reload*/
+$(window).bind('popstate', function() {
+	$.ajax({url:location.pathname+'?rel=tab',success: function(data){
+		$('#content').html(data);
+	}});
+});
+</script>

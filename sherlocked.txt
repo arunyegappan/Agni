@@ -1,0 +1,42 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Sherlocked</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('sherlocked/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('sherlocked/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('sherlocked/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('sherlocked/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Ah ha!!!
+A mysterious crime scene!!! A horde of evidence!!! A pool of suspects!!!
+Just the perfect setting for you Sherlock!!!
+Go ahead, bring Mr. Watson along as well and get to work!!!
+Unravel the case, find the culprit and rip off his mask!!!
+The Game's Afoot!!!!
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

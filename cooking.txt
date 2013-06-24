@@ -1,0 +1,40 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Fireless Cooking</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('cooking/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('cooking/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('cooking/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">This event is all about cooking. But it comes with its own twist! 
+Participants will be preparing their dishes without using any fire or appliances! Hence the name, fireless and wireless cooking. So come show of your creativity and cooking skills this AGNI.
+Individuals or teams comprising of two members may participate.
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

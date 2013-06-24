@@ -1,0 +1,43 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Mono Acting</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('monoacting/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('monoacting/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('monoacting/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+	Mono acting is act of a single actor in the stage. <br>
+	Acting of a play in the stage consist more than one character and based on 'dialogues'  i.e conversation of characters. <br>
+	Mono acting is based on 'Monologues'. <br>
+	All the ingredients of a stage play light, costume, effect music etc can be can be used according to the theme of the play. <br>
+	Only difference is in mono acting only a single character acts.<br>
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

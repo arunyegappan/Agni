@@ -1,0 +1,6 @@
+<p>Photoshop is the popular photo and image manipulation tool that is invaluable to designers and enthusiasts. Photoshop can be used to draw art from scratch, to design content for publicity brochures and most importantly it provides and endless source of fun by manipulating images and photos to user satisfaction.</p>
+You can <ul>
+<li> learn the fundamental tools, techniques and workflows for Photoshop. </li>
+<li> learn practically how to make Graphical & 3D Images using Photoshop.</li>
+</ul>
+and a lot more!!!

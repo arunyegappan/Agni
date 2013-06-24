@@ -1,0 +1,11 @@
+<div id="main_sidebar">
+<div class="top">
+<?php
+include("sidebar.txt");
+?>
+</div>
+
+<div class="updates">
+</div>
+
+</div>

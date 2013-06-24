@@ -1,0 +1,39 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Egg Shell Art</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('eggart/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('eggart/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('eggart/faq.txt')"><h3>faq</h3></li>
+<li onclick="eventsajax('eggart/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">"The world today doesn't make sense, so why should I paint pictures that do?"
+Have you ever been enraptured by the idea of converting the junk you see into beautiful pieces of art? Well, this Agni, you are invited to turn the artistic visions in your mind to reality using nothing but egg shell, in a way that is very different from the normal paper painting.
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

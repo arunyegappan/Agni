@@ -1,0 +1,44 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>LOLLU EXPRESS</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('lolluexpress/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('lolluexpress/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('lolluexpress/faq.txt')" ><h3>faq</h3></li>
+<li onclick="eventsajax('lolluexpress/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Kootama canteen munnadi ninnu, pora vara ponnungala comment adikkara gang....
+Class la moochu thenara paaadam eduthalum,last bench la ukkandhu vaathiya imitate panra gang....
+unga yellarayukkum oru event nadathanum nu naanga yedutha muyarchi thaan indha LOLLU EXPRESS!!!
+BASICALLY,  onnum illeeenga
+LOLLU SABHA  va paathu iruppeenga ..... 
+LOLLU EXPRESS is an event inspired from this great SOUTH INDIAN SHOW!!!
+By now you will know what to do!
+STEP IN ..... HAVE FUN!!!
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

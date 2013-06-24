@@ -1,0 +1,41 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Material Hunt</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('materialhunt/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('materialhunt/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('materialhunt/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">
+Are you a person who is tired of thinking?<br>
+Are you not a good speaker?<br>
+Are you not a good dancer or singer?<br>
+If your answers are 'YES', then you are in the right place.<br>
+Everybody will be used to search our misplaced things in our rooms. The same thing is gonna happen here. You are required to search the materials that we ask you to bring. You have no limitations, you can go anywhere for the materials. You should bring the materials within the stipulated time. 
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

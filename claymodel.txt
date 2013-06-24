@@ -1,0 +1,39 @@
+n
+<div class="events">
+
+<div class="events_name">
+<h1>Clay Modelling</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('claymodel/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('claymodel/rules.txt')" ><h3>rules</h3></li>
+
+<li onclick="eventsajax('claymodel/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">The name reflects the historical meaning behind this event. By history, we mean all the days we spent playing with wheat and funskool clay, modeling random things we liked. In the end, we somehow enjoyed the sticky hands and the funny smell.  The same concept follows here. But the only difference being, the model shouldn't be too random. The theme is yours to choose and the clay is ours to give.
+ Anything innovative will be entertained. 
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+

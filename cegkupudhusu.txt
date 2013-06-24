@@ -1,0 +1,40 @@
+
+<div class="events">
+
+<div class="events_name">
+<h1>Ceg Ku Pudhusu</h1>
+</div>
+<div class="events_menu">
+<ul>
+<li onclick="eventsajax('cegku/home.txt')" ><h3>Home</h3></li>
+<li onclick="eventsajax('cegku/rules.txt')" ><h3>rules</h3></li>
+<li onclick="eventsajax('cegku/rounds.txt')" ><h3>rounds</h3></li>
+<li onclick="eventsajax('cegku/contact.txt')" ><h3>contacts</h3></li>
+
+</ul>
+</div>
+
+<div id="events_content">
+
+<div class="pic">
+<img src="images/gmail.jpg" width="550" height="200" />
+</div>
+<div id="eventsinner">Bored with Assessments and books ??? <br>Wanna njoy life and have fun ??? 
+ <br><br>Here Comes the SOLUTION !!!   <br>Just pick any two guys ( Preferably Gud Luking Gals and Enthusiastic boys ) and come.<br> The stage is yours !!!
+<br>   Full fun filled , two hour Entertainer event is on its way for AGNI 12 . 
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+  
+
+
+
+
